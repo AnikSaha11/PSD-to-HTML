@@ -64,7 +64,7 @@ header {
     transition: 0.4s;
 }
 .btn:hover{
-	border: 1.2px solid #15a4fa;
+	border: 1px solid #15a4fa;
 	border-radius: 4px;
 }
 .fa.fa-angle-down {
